@@ -118,9 +118,10 @@ nav a:hover{
   height:auto;
   max-width:100%;
   display:block;
-  border-radius:50%;
-  object-fit:cover;
-  box-shadow:0 10px 30px rgba(56,189,248,0.3);
+  border-radius:0;
+  object-fit:contain;
+  box-shadow:none;
+  background:transparent;
 }
 
 section{
